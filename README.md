@@ -22,6 +22,6 @@ This project detects **faces and eyes** in images and real-time webcam feed usin
    https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml
    
    https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_eye.xml
-
+   sh```
 
    Place them in the project directory.
