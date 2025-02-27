@@ -20,6 +20,7 @@ This project detects **faces and eyes** in images and real-time webcam feed usin
 3. Download the required Haar cascade XML files from OpenCV’s GitHub:
 
    https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml
+   
    https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_eye.xml
    
    Place them in the project directory.
