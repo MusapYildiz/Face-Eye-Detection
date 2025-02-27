@@ -11,7 +11,7 @@ This project detects **faces and eyes** in images and real-time webcam feed usin
 
 1. Clone this repository:  
    ```sh
-   git clone https://github.com/<MusapYildiz>/Face-Eye-Detection.git
+   git clone https://github.com/MusapYildiz/Face-Eye-Detection.git
    cd Face-Eye-Detection
 2. Install required dependencies:
    ```sh
@@ -21,8 +21,7 @@ This project detects **faces and eyes** in images and real-time webcam feed usin
    ```sh
    https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml
    
-   ```sh
    https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_eye.xml
-   
-   
+
+
    Place them in the project directory.
