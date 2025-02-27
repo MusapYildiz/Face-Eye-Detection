@@ -19,9 +19,23 @@ This project detects **faces and eyes** in images and real-time webcam feed usin
    
 3. Download the required Haar cascade XML files from OpenCV’s GitHub:
    ```sh
-   https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml
+   wget https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml
    
-   https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_eye.xml
-   sh```
+   wget https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_eye.xml
 
-   Place them in the project directory.
+## Usage
+
+1. Face & Eye Detection in an Image
+
+   Run the following command:
+   Make sure to replace 'face5.jpg' with your image file.
+   ```sh
+   python face_eye_image.py
+   
+2. Real-time Face & Eye Detection using Webcam
+   ```sh
+   python face_eye_webcam.py
+
+
+## Author
+	https://github.com/MusapYildiz
